@@ -1,4 +1,5 @@
-> ⚠️ **Status: Queued for archive (2026-06 org consolidation).** No new work should land here. This fork is archived in favour of the upstream [EVerest/everest-demo](https://github.com/EVerest/everest-demo) and is retained for historical reference only.
+> ℹ️ **This is a fork maintained for reference.** Active development happens in our internal platform; issues/PRs here are not actively triaged.
+> _Review pass 2026-06-25: confirmed this is a public upstream fork retained for historical reference only; no active internal development occurs here._
 
 # EVerest Demo Repo
 
