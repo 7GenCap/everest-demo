@@ -1,5 +1,8 @@
-> ℹ️ **This is a fork maintained for reference.** Active development happens in our internal platform; issues/PRs here are not actively triaged.
-> _Review pass 2026-06-25: confirmed this is a public upstream fork retained for historical reference only; no active internal development occurs here._
+## Status - 2026-07-22 (7Gen monorepo consolidation)
+
+REFERENCE FORK / EXCLUDE (plan SGE-1916). Pristine upstream EVerest fork, zero 7Gen modifications (verified 2026-07-21). Kept only as reference. Archive-ready.
+
+Platform consolidation target: https://github.com/7GenCap/7gen (see docs/monorepo-fold-plan.md there). This banner is the durable reference for why this repo looks the way it does.
 
 # EVerest Demo Repo
 
