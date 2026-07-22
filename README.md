@@ -1,8 +1,6 @@
-## Status - 2026-07-22 (7Gen monorepo consolidation)
+## Status - 2026-07-22
 
-REFERENCE FORK / EXCLUDE (plan SGE-1916). Pristine upstream EVerest fork, zero 7Gen modifications (verified 2026-07-21). Kept only as reference. Archive-ready.
-
-Platform consolidation target: https://github.com/7GenCap/7gen (see docs/monorepo-fold-plan.md there). This banner is the durable reference for why this repo looks the way it does.
+Reference fork. This is a pristine fork of the upstream EVerest demo repo with zero 7Gen modifications (verified 2026-07-21). It is kept for reference only. Issues and PRs here are not triaged. Active development happens in 7Gen's internal platform.
 
 # EVerest Demo Repo
 
