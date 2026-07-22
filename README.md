@@ -1,5 +1,6 @@
-> ℹ️ **This is a fork maintained for reference.** Active development happens in our internal platform; issues/PRs here are not actively triaged.
-> _Review pass 2026-06-25: confirmed this is a public upstream fork retained for historical reference only; no active internal development occurs here._
+## Status - 2026-07-22
+
+Reference fork. This is a pristine fork of the upstream EVerest demo repo with zero 7Gen modifications (verified 2026-07-21). It is kept for reference only. Issues and PRs here are not triaged. Active development happens in 7Gen's internal platform.
 
 # EVerest Demo Repo
 
